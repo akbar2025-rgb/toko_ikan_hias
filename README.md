@@ -1,4 +1,4 @@
-🐠 Sistem Informasi Toko Ikan Hias
+# 🐠 Sistem Informasi Toko Ikan Hias
 
 Sistem Informasi berbasis web untuk mengelola toko ikan hias menggunakan **Laravel 12**, **Bootstrap 5**, dan **MySQL**.
 
