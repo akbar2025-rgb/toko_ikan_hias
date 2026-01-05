@@ -106,6 +106,13 @@ File **database/sql/db_toko_ikan_hias.sql** disertakan untuk memudahkan setup:
 
 ---
 
+## ⚠️ Catatan
+
+- File **.env** tidak disertakan dalam repository ini karena alasan keamanan! Ini adalah best practice yang benar.
+- Gunakan **.env.example** sebagai template, dan lakukan penyesuaian pada bagian-bagian tertentu.
+
+---
+
 ## 👨‍💻 Developer
 
 - **Nama:** Mhd. Akbar
