@@ -85,7 +85,7 @@ Sistem Informasi berbasis web untuk mengelola toko ikan hias menggunakan **Larav
 
 ## 🗄️ Database SQL
 
-File database/sql/db_toko_ikan_hias.sql disertakan untuk memudahkan setup:
+File **database/sql/db_toko_ikan_hias.sql** disertakan untuk memudahkan setup:
 - Sudah berisi struktur tabel lengkap
 - Sudah berisi data sample untuk testing
 - Import langsung tanpa perlu migration & seeder
