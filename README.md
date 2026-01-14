@@ -92,7 +92,7 @@ File **database/sql/db_toko_ikan_hias.sql** disertakan untuk memudahkan setup:
 
 ---
 
-## 👤 Akun Default
+## 👤 Default Account Login
 
 ### Admin
 - **Email:** `admin@tokoikan.com`
